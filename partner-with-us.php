@@ -242,7 +242,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 </div>
 <div class="sign-up-button">
-<a class="btn-enquire" href="contact.php" target="_blank">Register Now</a>
+<a class="btn-enquire" href="https://www.agent.enso.inc/" target="_blank">Register Now</a>
 </div>
 </div>
 </section>

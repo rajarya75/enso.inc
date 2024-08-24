@@ -151,11 +151,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </section>
 <section class="digital digit-dubai">
         <div class="container">
-            <div class="future-dubai-heading digital-exp" data-aos="fade-up">
-            <div class="heading-sub" style="margin-bottom:10px">
+            <div class="future-dubai-heading digital-exp">
+                <div class="heading-sub" style="margin-bottom:10px">
                     <h2><img src="assets/images/enso-connect.webp" style="width:270px"></h2>
                 </div>
+                <div class="enso-connect-read-more">
+             <a href="https://www.agent.enso.inc/" class="read-more-btn">
+             <div class="future-dubai-btn">
+        View More<span><img src="assets/images/read-more-arrow.svg"></span>
             </div>
+        </a>
+            </div>
+        </div>
 
             <!-- <div class="coming-soon-text">
             <h2 data-aos="fade-up">Coming Soon</h2>

@@ -116,17 +116,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="" id="project-sliding">
             <div class="project-list home-projects-slider slick-slider">
            <div class="projects">
-            <img src="assets/images/project-1-new.webp" alt="ENSO JADE - ENSO">
+            <img src="assets/images/enso-jade.jpg" alt="ENSO JADE - ENSO">
     		<span>Launching Shortly</span>
     		<div class="project-bottom-desc">
     		<h3>Enso Jade</h3>
     		<p>Jumeirah Garden City</p>
     		<div class="hover-desc">
-    		<p>Configuration:<br>
+    		<!-- <p>Configuration:<br>
 			<b>1 Bedroom<br>
 			1 Bedroom + Study<br>
 			2 Bedroom + Maid Room<br>
-			3 Bedroom + Maid Room</b></p>
+			3 Bedroom + Maid Room</b></p> -->
+
+			<p>Configuration:<br>
+			<b>1 Bedroom + 1.5 Bath<br>
+			1 Bedroom + Study + 2 Bath<br>
+			2 Bedroom + Maid Room + 3 Bath<br>
+			3 Bedroom + Maid Room + 4 Bath</b></p>
 			<hr>
 			<p>Submit your expression of interest</p>
 			<div class="project-view-more"><a href="contact.php">Get in touch<img src="assets/images/white-arrow.svg">
@@ -136,17 +142,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
             </div>
            <div class="projects">
-            <img src="assets/images/project-4-new.webp" alt="ENSO AMBER - ENSO">
+            <img src="assets/images/enso-amber.jpg" alt="ENSO AMBER - ENSO">
     		<span>Launching Shortly</span>
     		<div class="project-bottom-desc">
     		<h3>Enso AMBER</h3>
     		<p>Jumeirah Garden City</p>
     		<div class="hover-desc">
-    		<p>Configuration:<br>
+
+			<p>Configuration:<br>
+			<b>Studio<br>
+			1 Bedroom + 1.5 Bath<br>
+			1 Bedroom + Study + 2 Bath<br>
+			2 Bedroom + Maid Room + 3 Bath<br>
+			3 Bedroom + Maid Room + 4 Bath</b></p>
+
+    		<!-- <p>Configuration:<br>
 			<b>Studio<br>1 Bedroom<br>
 			1 Bedroom + Study<br>
 			2 Bedroom + Maid Room<br>
-			3 Bedroom + Maid Room</b></p>
+			3 Bedroom + Maid Room</b></p> -->
 			<hr>
 			<p>Submit your expression of interest</p>
 			<div class="project-view-more"><a href="contact.php">Get in touch<img src="assets/images/white-arrow.svg">
@@ -429,8 +443,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="heading-sub" style="margin-bottom:10px">
                     <h2><img src="assets/images/enso-connect.webp" style="width:270px"></h2>
                 </div>
+				<div class="enso-connect-read-more">
+			 <a href="https://www.agent.enso.inc/" class="read-more-btn">
+			 <div class="future-dubai-btn">
+		View More<span><img src="assets/images/read-more-arrow.svg"></span>
             </div>
-
+        </a>
+			</div>
+		</div>
             <!-- <div class="coming-soon-text">
             <h2 data-aos="fade-up">Coming Soon</h2>
         </div> -->
