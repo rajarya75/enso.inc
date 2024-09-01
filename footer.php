@@ -42,7 +42,7 @@
 <h5>Projects</h5>
 <ul>
 <li><a href="https://ensojade.com/" target="_blank">ENSO JADE</a></li>
-<li><a href="projects.php">ENSO AMBER</a></li>	
+<li><a href="https://ensoamber.com/" target="_blank">ENSO AMBER</a></li>	
 <li><a href="projects.php">ENSO DISTRICT 11</a></li>
 		
 </ul>

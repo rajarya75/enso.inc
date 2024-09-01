@@ -146,7 +146,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			3 Bedroom + Maid Room</b></p> -->
 			<hr>
 			<p>Submit your expression of interest</p>
-			<div class="project-view-more"><a href="contact.php">Get in touch<img src="assets/images/white-arrow.svg">
+			<div class="project-view-more"><a href="https://ensoamber.com/" target="_blank">Click for More Details<img src="assets/images/white-arrow.svg">
 			</a></div>
     	</div>
     </div>
